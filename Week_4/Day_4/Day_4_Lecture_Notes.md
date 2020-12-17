@@ -67,6 +67,7 @@
 
 
 ### Sass
+- Definitely use Sass all the time for projects
 - Preprocessor 
 - We can use variables
 - SCSS a middle ground between Sass and CSS
