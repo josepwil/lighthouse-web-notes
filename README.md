@@ -34,3 +34,4 @@ This repository contains all of the notes taken by [Joseph Williams](https://git
 * [Week 5](/Week_5)
   * [Day 1](/Week_5/Day_1)
   * [Day 2](/Week_5/Day_2)
+  * [Day 3](/Week_5/Day_3)
