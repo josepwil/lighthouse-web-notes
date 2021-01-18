@@ -35,3 +35,10 @@ This repository contains all of the notes taken by [Joseph Williams](https://git
   * [Day 1](/Week_5/Day_1)
   * [Day 2](/Week_5/Day_2)
   * [Day 3](/Week_5/Day_3)
+
+* Week 6 (Midterm)
+
+* [Week 7](/Week_7)
+  * [Day 1](/Week_7/Day_1)
+  * [Day 2](/Week_7/Day_2)
+  * [Day 3](/Week_7/Day_3)
