@@ -1,43 +1,27 @@
-## Day 3 Lecture Notes - Advanced React
+## Day 3 Lecture Notes - End-to-End Testing with Cypress
+
 
 ## Topics
-- React Router
-- Advanced Routing
-- Styled Components
-- `useContext`
-- `useRef`
-- Component Libraries
+- Identify the difference between Jest and Cypress
+- Install and configure Cypress
+- Design End-to-End tests with Cypress
+- Write End-to-End tests with Cypress
 
 
-## React Router
-- used to manage state in production
-- BrowserRouter - component that holds all of the other things inside of it (tend to alias it as Router when we bring it in)
-- Link - wherever we want to link to we put in between, like an anchor tag, pass in an attribute (to="") of where we want to go
-- Route - receives a path and if the path evaulutes to true whatever is inside will be rendered
-- Switch - wrap all of our Routes inside the switch component, but put the most specific route at the top and least specific at the bottom
+## Jest vs Cypress
+- Jest
+  - Command line test runner
+  - Based around the testing of assertions
+  - Unit and low-level integration
+  - headless => no browser
+  - usually used for tdd
+- Cypress
+  - Browser based test runner
+  - interacts with our app just like a user
+  - End-to-end testing
+  - usually written after the fact
+  - built on mocha/chai
+  - also includes jquery, selectors written the same way
 
-## Advanced Routing
-- useParams - custom hook, inside of any child component we can call useParams and it will give us the parameters from the URL
-- We can nest Routers inside one another
 
-## Styled Components
-- equivalent of inline styles
-``` javascript
-import styled from 'styled-components'
-
-const Header = styled.p`
-  color: purple;
-  font-size: 24px;
-`
-```
-
-## useContext
-- React/Redux => external state storage
-- useContext for the most part is replacing redux, it elimnates prop drilling
-- .Provider 
-
-## useRef
-
-## Component Libraries
-- ant design
-- material ui
+  
