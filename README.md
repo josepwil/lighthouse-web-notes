@@ -51,3 +51,10 @@ This repository contains all of the notes taken by [Joseph Williams](https://git
   * [Day 4](/Week_8/Day_4)
   * [Day 5](/Week_8/Day_5)
 
+* Week 9 - no lectures
+
+* [Week 10](/Week_10)
+  * [Day 1](/Week_10/Day_1)
+  * [Day 2](/Week_10/Day_2)
+
+
